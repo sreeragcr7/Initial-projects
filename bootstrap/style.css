@@ -1,0 +1,34 @@
+.row{
+    margin: 30px;
+}
+body{
+    background-color: rgb(15, 18, 15);
+}
+.btn-group .btn1{
+    background-color: rgba(6, 131, 23, 0.714);
+    color: white; 
+}
+.btn-group .btn{
+    background-color: darkorange;
+    color: white; 
+}
+.card{
+    background-color: rgba(49, 48, 48, 0.63);
+    color: white;
+}
+.featurette-heading{
+    color: white;
+}
+.lead{
+    color: aliceblue;
+}
+.container h2{
+    color: white;
+
+}
+.container .form-label{
+    color: rgb(245, 222, 179);
+}
+.form-check-label{
+    color: wheat;
+}
